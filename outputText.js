@@ -1,0 +1,1 @@
+var outputText = "<h3>THIS IS A TEST FILE: ALL CAPS TEXT WILL READ AS HEADERS</h3><p>Here is a test paragraph, or as I always say:</p><blockquote>Use a * in the beginning of a quote to &lt;blockquote&gt; it!</blockquote><p>Characters like &#039; &quot; &amp; &lt; &gt; should work just fine :)</p><p>Final paragraph -- beautiful!</p>"
